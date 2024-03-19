@@ -1,0 +1,23 @@
+
+			.div{
+				width: 25%; 
+        background-color: #355c7d;
+        top: 0;
+        left: 0;
+        position: absolute;
+        color: #fff;
+			}
+      .abacate{
+				width: 73%; 
+			}
+      div.container {text-align: center;}
+      ul.myUL{display: inline-block;text-align: left;}
+      .center{ display: block;
+      margin-left:auto;
+    margin-right: auto;
+  width: 50%;}
+  .hr3 
+    {
+  border: 0;
+  height: 2px;
+  background-image: linear-gradient(to right, transparent, #CCC, transparent); }
