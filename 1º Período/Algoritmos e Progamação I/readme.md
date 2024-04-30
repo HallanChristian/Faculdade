@@ -10,8 +10,8 @@
 
   Na pasta de exercícios estão os principais conteúdos da matéria de algoritmos e programação. Sendo eles:
 
-  - ## Avaliações
+- ## Avaliações
  
-    As avaliações consistiam em atividades práticas que determinavam nossas notas finais do trimestre na faculdade. Sendo elas:
+  As avaliações consistiam em atividades práticas que determinavam nossas notas finais do trimestre na faculdade. Sendo elas:
 
   
