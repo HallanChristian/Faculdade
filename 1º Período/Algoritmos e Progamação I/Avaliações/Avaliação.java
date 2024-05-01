@@ -1,5 +1,19 @@
-//ALuno: Hallan Christian Morais da Cruz
-//Calculadora Científica e Estatística
+/* ALuno: Hallan Christian Morais da Cruz
+
+Desenvolva uma calculadora em Java que ofereça duas funcionalidades: uma calculadora científica e uma calculadora estatística.
+
+Para a calculadora científica:
+
+Ela permite realizar operações matemáticas básicas, como adição, subtração, multiplicação e divisão.
+Além disso, oferece funcionalidades avançadas, como cálculo de fatorial, exponenciação e porcentagem.
+O programa mantém um histórico das últimas cinco operações realizadas.
+O usuário pode consultar o histórico ou limpar a memória da calculadora.
+
+Para a calculadora estatística:
+
+Ela calcula a média, o maior e o menor número de um conjunto de números informados pelo usuário.
+O usuário insere a quantidade de números desejada e, em seguida, informa esses números.
+A calculadora exibe a média, o maior e o menor número, além do número total de elementos. */
 
 import java.util.Scanner;
 
