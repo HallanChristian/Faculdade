@@ -1,7 +1,18 @@
 /*
 Aluno: Hallan Christian Morais da Cruz
+
 Questão 01
+Faça um programa em Java que diga se um estádio está lotado, parcialmente lotado, quase vazio ou 
+vazio com base na quantidade de pessoas presentes e na capacidade total do estádio. 
+
+Se a quantidade de pessoas for:
+
+80% ou mais da capacidade, o estádio está lotado.
+Entre 50% e 79% da capacidade, o estádio está parcialmente lotado.
+Menos que 50% da capacidade, o estádio está quase vazio.
+20% ou menos da capacidade, o estádio está vazio.
 */
+
 package app;
 
 import java.util.Scanner;
