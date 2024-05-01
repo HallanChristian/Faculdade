@@ -1,5 +1,9 @@
-//ALuno: Hallan Christian Morais da Cruz
-//Contagem Impar e Par
+/* ALuno: Hallan Christian Morais da Cruz
+
+Escreva um programa em Java que solicite ao usuário que insira 10 números inteiros. 
+O programa deve contar e exibir quantos desses números são pares e quantos são ímpares. 
+*/
+
 import java.util.Scanner;
 
 public class ContagemParImpar {
