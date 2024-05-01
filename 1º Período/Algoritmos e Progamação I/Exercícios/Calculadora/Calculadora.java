@@ -1,7 +1,12 @@
 package app;
 
-//Aluno: Hallan Christian Morais da Cruz
-//Calculadora
+/* Aluno: Hallan Christian Morais da Cruz
+
+Desenvolva um programa em Java para criar uma calculadora simples. A calculadora deve 
+ser capaz de realizar operações básicas de adição, subtração, multiplicação e divisão. 
+O programa deve solicitar ao usuário que insira dois números e escolha a operação desejada. 
+Em seguida, exiba o resultado da operação escolhida. Certifique-se de implementar 
+o programa de forma que seja fácil de entender e usar. */
 
 import java.util.Scanner;
 
