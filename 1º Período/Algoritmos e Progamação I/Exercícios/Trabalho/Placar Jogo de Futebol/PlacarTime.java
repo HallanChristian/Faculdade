@@ -1,7 +1,15 @@
 /*
 Aluno: Hallan Christian Morais da Cruz
+
 Questão 03
+Crie um programa em Java que compare o desempenho de dois times em uma competição. 
+O programa solicita ao usuário que insira o nome dos dois times, o número de vitórias 
+e o número de empates de cada time. Em seguida, o programa calcula os pontos de cada time, 
+onde cada vitória vale 3 pontos e cada empate vale 1 ponto. Após o cálculo, o programa 
+determina qual time tem mais pontos ou se os dois times estão empatados, e então mostra 
+essa informação ao usuário.
 */
+
 package app;
 
 import java.util.Scanner;
