@@ -1,6 +1,18 @@
-//ALuno: Hallan Christian Morais da Cruz
-//Conversor de Unidades
+/* ALuno: Hallan Christian Morais da Cruz
 
+Crie um programa em Java que realize conversões entre diferentes unidades de medida. 
+O programa deve oferecer as seguintes opções de conversão:
+
+1 - Metros para Pés
+2 - Pés para Metros
+3 - Litros para Galões
+4 - Galões para Litros
+
+0 - Sair
+O usuário deve escolher uma das opções digitando o número correspondente. 
+Após a escolha, o programa deve solicitar a quantidade a ser convertida e exibir o resultado da conversão de forma clara.
+*/
+	
 package app;
 
 import java.util.Scanner;
