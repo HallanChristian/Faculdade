@@ -1,5 +1,10 @@
-//Aluno: Hallan Christian Morais da Cruz
-//Conversor de Temperatura
+/* Aluno: Hallan Christian Morais da Cruz
+
+Desenvolva um programa em Java para converter temperaturas entre Celsius e Fahrenheit. 
+O programa deve oferecer ao usuário duas opções de conversão: de Celsius para Fahrenheit ou de Fahrenheit para Celsius. 
+Após a escolha, o usuário deverá inserir a temperatura a ser convertida e o programa 
+exibirá o resultado da conversão de forma clara. */
+
 import java.util.Scanner;
 
 public class ConversorTemperatura {
