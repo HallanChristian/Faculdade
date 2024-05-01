@@ -18,7 +18,7 @@
   
   - <a href="https://github.com/Olossy/Faculdade/tree/main/1º%20Período/Algoritmos%20e%20Progamação%20I/Exercícios/Conversor%20de%20Unidades">Conversor de Unidades</a>
   
-    - <a href="https://github.com/Olossy/Faculdade/tree/main/1º%20Período/Algoritmos%20e%20Progamação%20I/Exercícios/Trabalho">Trabalho </a>
+  - <a href="https://github.com/Olossy/Faculdade/tree/main/1º%20Período/Algoritmos%20e%20Progamação%20I/Exercícios/Trabalho">Trabalho </a>
 
 - ## <a href="https://github.com/Olossy/Faculdade/tree/main/1º%20Período/Algoritmos%20e%20Progamação%20I/Avaliações">Avaliações</a>
  
