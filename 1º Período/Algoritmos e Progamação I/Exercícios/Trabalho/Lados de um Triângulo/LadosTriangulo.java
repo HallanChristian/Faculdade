@@ -1,7 +1,12 @@
 /*
 Aluno: Hallan Christian Morais da Cruz
+
 Questão 02
+Escreva um programa em Java que verifique se três valores podem ser os lados de um triângulo válido. 
+O programa solicita ao usuário que insira os valores dos três lados do triângulo e, em seguida, 
+determina se é possível formar um triângulo com esses valores.
 */
+
 package app;
 
 import java.util.Scanner;
