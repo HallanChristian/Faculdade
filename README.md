@@ -1,4 +1,4 @@
-# Repositório Pessoal de Sistemas de Informação ✨
+# Repositório Pessoal de Sistemas de Informação 
 
 **Bem-vindo ao meu repositório pessoal dedicado ao curso de Sistemas de Informação! Aqui, você encontrará uma documentação completa das disciplinas que estou cursando, incluindo materiais de estudo, conteúdos das aulas e outros recursos úteis.**
 
